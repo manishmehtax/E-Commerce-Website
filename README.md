@@ -28,22 +28,5 @@ Before you begin, ensure you have the following prerequisites:
 - Web browser (e.g., Chrome, Firefox, Safari)
 - Text editor (e.g., Visual Studio Code, Sublime Text)
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/keerti-1924/E-Learning-Website-HTML-CSS.git
-
-2. Open the project in your preferred text editor.
-3. Launch the `index.html` file in a web browser.
-
-## Technologies Used
-
-- HTML
-- CSS
-- Bootstrap 5
-- JavaScript
-
-📱 Moreover, I've ensured that the website is fully responsive on all screens, making it accessible and user-friendly across various devices. 📱💡
 
 
